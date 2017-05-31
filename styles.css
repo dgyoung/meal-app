@@ -1,0 +1,27 @@
+#mainSquare {
+    border-style: dashed;
+    border-color: yellow;
+    margin: 0px;
+    width: 100%;
+    height: 150px;
+    background: #DE0914;
+}
+.otherSquares {
+    border-style: dashed;
+    border-color: yellow;
+    margin: 0px;
+    width: 100%;
+    height: 100px;
+    background: #DE0914;
+}
+.picture {
+    float: left;
+    height: 80px;
+    width: 80px;
+    margin: 10px;
+    background: yellow;
+}
+.description {
+    float: left;
+    padding-top: 7px;
+}
